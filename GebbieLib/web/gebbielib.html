@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sample app</title>
+    <link rel="stylesheet" href="gebbielib.css">
+
+    <!-- import the click-counter -->
+    <link rel="import" href="trackitem.html">
+  </head>
+  <body>
+    <h1>GebbieLib</h1>
+    <p>MP3 organizer</p>
+    <div is="track-item" id="track_counter" number="{{1}}" tracktitle="my title" artist="J.S. Fiddes" duration="03:12"></div>
+    <div is="track-item" id="track_counter" number="{{2}}" tracktitle="your title" artist="J.S. Fiddes" duration="03:12"></div>
+    <div is="track-item" id="track_counter" number="{{3}}" tracktitle="your title" artist="J.S. Fiddes" duration="03:12"></div>
+    <script type="application/dart" src="gebbielib.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>

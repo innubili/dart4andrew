@@ -1,0 +1,44 @@
+/* Auto-generated from style sheet href = web\gebbielib.css */
+/* DO NOT EDIT. */
+
+body {
+  background-color: #F8F8F8;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+h1, p {
+  color: #333;
+}
+.selector {
+  background: #FFF;
+  margin: 0em 0.5em 0em 0em;
+  padding: 0px;
+  list-style-type: none;
+  -webkit-padding-start: 1em;
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0.5em;
+  -webkit-margin-end: 0em;
+}
+.hidden {
+  display: none;
+}
+.selectedText {
+  back-color: #000080;
+  font-weight: bold;
+}
+.selectedItem {
+  box-shadow: 1px 1px 4px #000080;
+}
+button {
+  width: 1.2em;
+  height: 1.2em;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0px;
+  margin: 0.3em 0.5em 0.3em 0.5em;
+  cursor: pointer;
+}
+

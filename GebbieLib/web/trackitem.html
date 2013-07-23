@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+    <element name="track-item" constructor="TrackItem" extends="div">
+      <template>
+        <div style="background-color:{{bgColor}}">
+          <span style="margin-right:0.2em; display: inline-table;">{{formattedTrackNumber}}</span>
+          <span style="display: inline-table;">{{tracktitle}}</span>
+          <span style="display: inline-table; color:gray">({{duration}})</span>
+          <span style="display: inline-table;">{{artist}}</span>
+          <span style="display: inline-table; cursor:pointer" title="play" on-click="play()">&#9658;</span>
+        </div>
+      </template>
+      <script type="application/dart" src="trackitem.dart"></script>
+    </element>
+  </body>
+</html>

@@ -1,0 +1,2083 @@
+---
+build.dart --machine --full
+Total time spent on web/gebbielib.html                       -- 2711 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 3660 ms
+build.dart finished [4307 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 499 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1586 ms
+build.dart finished [2139 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 388 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1293 ms
+build.dart finished [1655 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 501 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1455 ms
+build.dart finished [1913 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 926 ms
+build.dart finished [1381 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 868 ms
+build.dart finished [1375 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 408 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1348 ms
+build.dart finished [1736 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 835 ms
+build.dart finished [1209 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 403 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1276 ms
+build.dart finished [1842 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 415 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1309 ms
+build.dart finished [1742 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 396 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1274 ms
+build.dart finished [1674 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 386 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1222 ms
+build.dart finished [1645 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 383 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1227 ms
+build.dart finished [1574 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 377 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1197 ms
+build.dart finished [1809 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 400 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1215 ms
+build.dart finished [1604 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 382 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1202 ms
+build.dart finished [1613 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 387 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1230 ms
+build.dart finished [1606 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 383 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1373 ms
+build.dart finished [1718 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 421 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1279 ms
+build.dart finished [1644 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 653 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1823 ms
+build.dart finished [2447 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 385 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1204 ms
+build.dart finished [1601 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 440 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1295 ms
+build.dart finished [1703 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 393 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1274 ms
+build.dart finished [1659 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 510 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1360 ms
+build.dart finished [1702 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 379 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1236 ms
+build.dart finished [1624 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 837 ms
+build.dart finished [1172 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 406 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1255 ms
+build.dart finished [1612 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 840 ms
+build.dart finished [1272 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 856 ms
+build.dart finished [1374 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 830 ms
+build.dart finished [1187 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 529 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1647 ms
+build.dart finished [2207 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 892 ms
+build.dart finished [2514 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 404 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1563 ms
+build.dart finished [3536 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 411 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1334 ms
+build.dart finished [1753 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 422 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1325 ms
+build.dart finished [1734 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 423 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1349 ms
+build.dart finished [1713 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 415 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1274 ms
+build.dart finished [1743 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 423 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1368 ms
+build.dart finished [1777 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 464 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1352 ms
+build.dart finished [1773 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 435 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1334 ms
+build.dart finished [1701 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 452 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1379 ms
+build.dart finished [2128 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 421 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1307 ms
+build.dart finished [2265 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 414 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1315 ms
+build.dart finished [1820 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 428 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1329 ms
+build.dart finished [1943 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 431 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1286 ms
+build.dart finished [2367 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 437 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1295 ms
+build.dart finished [1886 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 504 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1401 ms
+build.dart finished [1864 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 417 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1263 ms
+build.dart finished [2263 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 560 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1795 ms
+build.dart finished [2419 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 446 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1309 ms
+build.dart finished [1769 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 425 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1306 ms
+build.dart finished [1828 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 434 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1317 ms
+build.dart finished [1728 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 429 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1312 ms
+build.dart finished [1868 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 427 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1301 ms
+build.dart finished [1919 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 420 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1375 ms
+build.dart finished [1799 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 441 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1312 ms
+build.dart finished [2000 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 656 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1525 ms
+build.dart finished [2511 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 425 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1272 ms
+build.dart finished [1682 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 935 ms
+build.dart finished [1525 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 916 ms
+build.dart finished [1368 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 1072 ms
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 910 ms
+build.dart finished [1318 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 516 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1360 ms
+build.dart finished [1744 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 430 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1283 ms
+build.dart finished [1831 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 430 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1364 ms
+build.dart finished [1877 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 426 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1336 ms
+build.dart finished [1914 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 422 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1385 ms
+build.dart finished [1790 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 439 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1341 ms
+build.dart finished [1698 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 886 ms
+build.dart finished [1364 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 447 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1327 ms
+build.dart finished [1699 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 599 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1485 ms
+build.dart finished [2038 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 424 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1351 ms
+build.dart finished [1970 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 423 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1281 ms
+build.dart finished [1700 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 423 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1296 ms
+build.dart finished [1659 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 792 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1722 ms
+build.dart finished [2395 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 874 ms
+build.dart finished [1456 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 578 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1693 ms
+build.dart finished [2290 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 912 ms
+build.dart finished [1469 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 952 ms
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 863 ms
+build.dart finished [1283 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 490 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1446 ms
+build.dart finished [1893 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 469 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1361 ms
+build.dart finished [1733 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 421 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1263 ms
+build.dart finished [1816 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 735 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1636 ms
+build.dart finished [2346 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 421 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1379 ms
+build.dart finished [1761 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 427 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1282 ms
+build.dart finished [1862 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 447 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1339 ms
+build.dart finished [1702 ms]
+
+---
+build.dart --machine --full
+Unable to open file: C:/Users/Rudy/Documents/GitHub/dart4andrew/GebbieLib/packages/web_ui/component_build.dart'file:///C:/Users/Rudy/Documents/GitHub/dart4andrew/GebbieLib/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:web_ui/component_build.dart';
+^
+build.dart finished [2587 ms]
+
+---
+build.dart --machine --full
+Total time spent on web/gebbielib.html                       -- 1154 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 2722 ms
+build.dart finished [7437 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   -- 997 ms
+build.dart finished [2568 ms]
+
+---
+build.dart --machine --changed=web\mp3\mp3.dart
+Total time spent on web/gebbielib.html                       -- 473 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1295 ms
+build.dart finished [1781 ms]
+
+---
+build.dart --machine --changed=web\mp3\mp3.dart
+Total time spent on web/gebbielib.html                       -- 412 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1297 ms
+build.dart finished [1630 ms]
+
+---
+build.dart --machine --changed=web\mp3\artist.dart
+Total time spent on web/gebbielib.html                       -- 418 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1249 ms
+build.dart finished [1633 ms]
+
+---
+build.dart --machine --changed=web\mp3\album.dart
+Total time spent on web/gebbielib.html                       -- 472 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1333 ms
+build.dart finished [1711 ms]
+
+---
+build.dart --machine --changed=web\mp3\track.dart
+Total time spent on web/gebbielib.html                       -- 551 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1801 ms
+build.dart finished [2270 ms]
+
+---
+build.dart --machine --changed=web\mp3\artist.dart
+Total time spent on web/gebbielib.html                       -- 472 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1334 ms
+build.dart finished [1714 ms]
+
+---
+build.dart --machine --changed=web\mp3\album.dart
+Total time spent on web/gebbielib.html                       -- 407 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1221 ms
+build.dart finished [1562 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 431 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1292 ms
+build.dart finished [1656 ms]
+
+---
+build.dart --machine --changed=web\mp3\track.dart
+Total time spent on web/gebbielib.html                       -- 462 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1396 ms
+build.dart finished [2185 ms]
+
+---
+build.dart --machine --changed=web\mp3\track.dart
+Total time spent on web/gebbielib.html                       -- 419 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1275 ms
+build.dart finished [1604 ms]
+
+---
+build.dart --machine --changed=web\mp3\mp3.dart
+Total time spent on web/gebbielib.html                       -- 420 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1268 ms
+build.dart finished [1630 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 412 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1229 ms
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  22 ms
+build.dart finished [416 ms]
+
+---
+build.dart --machine --full
+Total time spent on web/gebbielib.html                       -- 436 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1283 ms
+build.dart finished [1642 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 418 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1500 ms
+build.dart finished [2187 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 432 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1290 ms
+build.dart finished [1677 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 839 ms
+build.dart finished [1251 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 824 ms
+build.dart finished [1194 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 418 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1260 ms
+build.dart finished [1663 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 887 ms
+build.dart finished [1412 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 831 ms
+build.dart finished [1408 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 889 ms
+build.dart finished [1291 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 875 ms
+build.dart finished [1288 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 439 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1305 ms
+build.dart finished [1672 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 879 ms
+build.dart finished [1248 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 885 ms
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 488 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1311 ms
+build.dart finished [1687 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 520 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1459 ms
+build.dart finished [1902 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 876 ms
+build.dart finished [1308 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 853 ms
+build.dart finished [1233 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 913 ms
+build.dart finished [1334 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 1032 ms
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 832 ms
+build.dart finished [1268 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 878 ms
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 878 ms
+build.dart finished [1281 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.css
+Total time                                                   -- 808 ms
+build.dart finished [1195 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 464 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1298 ms
+build.dart finished [1787 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 439 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1272 ms
+build.dart finished [1642 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 461 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1356 ms
+build.dart finished [1712 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 499 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1367 ms
+build.dart finished [1736 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.dart
+Total time spent on web/gebbielib.html                       -- 437 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1287 ms
+build.dart finished [1759 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 427 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1283 ms
+build.dart finished [1681 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 490 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1361 ms
+build.dart finished [1847 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 436 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1275 ms
+build.dart finished [1713 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 658 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1554 ms
+build.dart finished [2459 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 445 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1530 ms
+build.dart finished [1929 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 462 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1392 ms
+build.dart finished [1815 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 464 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1315 ms
+build.dart finished [1663 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":408}}]
+Total time spent on web/gebbielib.html                       -- 444 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1379 ms
+build.dart finished [1720 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":408}}]
+Total time spent on web/gebbielib.html                       -- 453 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1296 ms
+build.dart finished [1684 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":408}}]
+Total time spent on web/gebbielib.html                       -- 426 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1274 ms
+build.dart finished [1667 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  22 ms
+build.dart finished [398 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":408}}]
+Total time spent on web/gebbielib.html                       -- 425 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1271 ms
+build.dart finished [1652 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":408}}]
+Total time spent on web/gebbielib.html                       -- 450 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1277 ms
+build.dart finished [1842 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":408}}]
+Total time spent on web/gebbielib.html                       -- 513 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1368 ms
+build.dart finished [1744 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":339}}]
+Total time spent on web/gebbielib.html                       -- 496 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1342 ms
+build.dart finished [1687 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":339}}]
+Total time spent on web/gebbielib.html                       -- 511 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1358 ms
+build.dart finished [1751 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  23 ms
+build.dart finished [382 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":339}}]
+Total time spent on web/gebbielib.html                       -- 448 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1280 ms
+build.dart finished [1621 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 444 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1269 ms
+build.dart finished [1912 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 464 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1369 ms
+build.dart finished [1869 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+[{"method":"warning","params":{"file":"web/gebbielib.html","message":"custom element with tag name track-item not found.","line":15,"charStart":299,"charEnd":339}}]
+Total time spent on web/gebbielib.html                       -- 446 ms
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\xclickcounter.dart.map"}}]
+Total time                                                   -- 1323 ms
+build.dart finished [1811 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 475 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1329 ms
+build.dart finished [1756 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 459 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1290 ms
+build.dart finished [1632 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 471 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1356 ms
+build.dart finished [1751 ms]
+
+---
+build.dart --machine --removed=web\xclickcounter.dart
+Total time spent on web/gebbielib.html                       -- 475 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1326 ms
+build.dart finished [1746 ms]
+
+---
+build.dart --machine --removed=web\xclickcounter.html
+Total time spent on web/gebbielib.html                       -- 670 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1697 ms
+build.dart finished [2057 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 506 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1353 ms
+build.dart finished [1772 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 457 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1279 ms
+build.dart finished [1661 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 485 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1366 ms
+build.dart finished [1786 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 480 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1369 ms
+build.dart finished [1721 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 454 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1287 ms
+build.dart finished [1636 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 494 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1330 ms
+build.dart finished [1704 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 495 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1349 ms
+build.dart finished [1753 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  24 ms
+build.dart finished [419 ms]
+
+---
+build.dart --machine --full
+Total time spent on web/gebbielib.html                       -- 443 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1295 ms
+build.dart finished [1665 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 479 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1443 ms
+build.dart finished [1864 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 480 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1305 ms
+build.dart finished [1734 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 465 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1287 ms
+build.dart finished [1667 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 463 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1286 ms
+build.dart finished [1662 ms]
+
+---
+build.dart --machine --changed=web\trackitem.html
+Total time spent on web/gebbielib.html                       -- 473 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1324 ms
+build.dart finished [1735 ms]
+
+---
+build.dart --machine --changed=web\trackitem.dart
+Total time spent on web/gebbielib.html                       -- 486 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1309 ms
+build.dart finished [1669 ms]
+
+---
+build.dart --machine --changed=web\gebbielib.html
+Total time spent on web/gebbielib.html                       -- 532 ms
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart"}}]
+[{"method":"mapping","params":{"from":"web/gebbielib.html","to":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\gebbielib.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\trackitem.dart.map"}}]
+Total time                                                   -- 1350 ms
+build.dart finished [1706 ms]
+
