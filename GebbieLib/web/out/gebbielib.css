@@ -22,6 +22,60 @@ h1, p {
   -webkit-margin-after: 0.5em;
   -webkit-margin-end: 0em;
 }
+.trackSelector {
+  display: block;
+  margin-left: 2.5em;
+  border-collapse: collapse;
+}
+.trackHeader {
+  background-color: #F8F8F8;
+}
+.trackHeader td {
+  border-top: solid 1px #d3d3d3;
+  box-shadow: inset 0px -2px 2px 0px #808080;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+}
+.alternateBright {
+}
+.alternateDark {
+  background-color: #F8F8F8;
+}
+.track td {
+  border-left: 1px solid #d3d3d3;
+  vertical-align: middle;
+}
+.textCol {
+  text-align: left !important;
+  padding-left: 1em !important;
+  width: 30%;
+}
+.track {
+}
+.nr {
+  color: #808080;
+  text-align: center;
+}
+.title {
+  color: #00f;
+  font-weight: bold;
+}
+.duration {
+  color: #808080;
+  text-align: center;
+}
+.artist {
+}
+.play {
+  cursor: pointer;
+}
+.stoppable {
+  font-weight: bold;
+  padding-left: 0.25em;
+  background-color: #c7c7fd;
+}
+.spacer {
+  width: 90%;
+}
 .hidden {
   display: none;
 }
@@ -31,6 +85,9 @@ h1, p {
 }
 .selectedItem {
   box-shadow: 1px 1px 4px #000080;
+}
+.selectedTrack {
+  background-color: #c7c7fd;
 }
 button {
   width: 1.2em;

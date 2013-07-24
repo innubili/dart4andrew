@@ -21,5 +21,5 @@ class TrackItem extends WebComponent {
   }
 
   String get formattedTrackNumber => "${number < 10 ? '0' : ''}$number";
-  String get bgColor => "${number.isOdd ? 'lightgray' : 'white'}";
+  String get bgColor => "${number.isOdd ? '#F8F8F8' : 'white'}";
 }

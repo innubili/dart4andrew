@@ -3,10 +3,15 @@ import 'package:web_ui/web_ui.dart';
 
 import 'mp3/mp3.dart';
 
+Element artistSelector;
+Map<String, Track> allTracks; // map<element id, track object>
+String selectedTrackId;
+
 void main() {
+  allTracks = new Map<String, Track>();
   var musicInfo = fetchMusicInfo();
-  var selector = getArtistSelector(musicInfo);
-  document.body.append(selector);
+  artistSelector = getArtistSelector(musicInfo);
+  document.body.append(artistSelector);
 }
 
 /**
@@ -40,20 +45,132 @@ getAlbumSelector(List<Album> albums){
 }
 
 /**
- * retrns a (html) ordered list with tracks
- */
+ * returns a (html) ordered list with tracks
+ * !!! unfortunately web-ui components cannot be 'build' programmatically yet
+ * !!! so we'll build dem dynamically as standard html
 getTrackSelector(List<Track> tracks){
-  Element selector = new OListElement()
-                         ..classes.add('selector');
+  Element selector = new DivElement()..classes.add('trackSelector');
 
   tracks.forEach((track){
-    var li = new LIElement();
-    li.text = track.toString();
-    selector.append(li);
+    // in dart yo can do multi-line strings with '''
+    String trackDiv = '<div is="track-item" id="${track.id}" number="${track.number}" tracktitle="${track.title}" artist="${track.artist}" duration="${track.formattedDuration}"></div>';
+    selector.appendHtml(trackDiv);
   });
 
   return selector;
 }
+*/
+
+/***
+ * returns a (html) table with tracks
+ */
+getTrackSelector(List<Track> tracks){
+  Element selector = new TableElement()..classes.add('trackSelector');
+  selector.append(trackHeader);
+  tracks.forEach((track){
+    // in dart yo can do multi-line strings with '''
+    Element trackDiv = getTrackItem(track);
+    selector.append(trackDiv);
+    if(!allTracks.containsValue(track)) allTracks[track.id] = track;
+  });
+  return selector;
+}
+
+/***
+ * return the (html) table-row for the tracks
+ */
+get trackHeader{
+  var div = new TableRowElement()..classes.add("track trackHeader");
+  div.append(new TableCellElement()..text = 'Nr');
+  div.append(new TableCellElement()..text = '');
+  div.append(new TableCellElement()..text = 'Title');
+  div.append(new TableCellElement()..text = 'Artist');
+  div.append(new TableCellElement()..text = 'mm:ss');
+  div.append(new TableCellElement()..classes.add('spacer'));
+  return div;
+}
+
+/***
+ * returns a (html) table-row with the track data
+ */
+getTrackItem(Track track){
+  var div = new TableRowElement()
+          ..id = track.id
+          ..classes.add("track ${track.number.floor().isOdd ? 'alternateBright' : 'alternateDark'}");
+  div.append(new TableCellElement()..text = track.formattedNumber..classes.add('nr'));
+  var playBtn = new TableCellElement()
+    ..id = '${track.id}_btn'
+    ..innerHtml = '&#9658;'
+    ..classes.add('play')
+    ..title = 'play'
+    ..onClick.listen((e){toggleTrackPlay(track);});
+  div.append(playBtn);
+  div.append(new TableCellElement()..text = track.title..classes.add('title textCol'));
+  div.append(new TableCellElement()..text = track.artist..classes.add('artist textCol'));
+  div.append(new TableCellElement()..text = track.formattedDuration..classes.add('duration'));
+  div.append(new TableCellElement()..classes.add('spacer'));
+  div.onClick.listen((e){setTrackSelection(e.currentTarget.id, true);});
+  return div;
+}
+
+/***
+ * set if a track is selected (or not)...
+ */
+setTrackSelection(trackId, selected){
+  if (selectedTrackId != trackId) setTrackSelection(selectedTrackId, false);
+  Element trackEl = document.query('#$trackId');
+  if(trackEl != null){
+    if(selected){
+      print('  -selected $trackId');
+      trackEl.classes.add('selectedTrack');
+      selectedTrackId = trackId;
+    }else{
+      print('UN-selected $trackId');
+      trackEl.classes.remove('selectedTrack');
+      stopPlaying(allTracks[selectedTrackId]);
+      selectedTrackId = null;
+    }
+  }
+}
+
+/***
+ * (will) plays & stops a track
+ */
+toggleTrackPlay(track){
+  if(track.isPlaying)
+    stopPlaying(track);
+  else
+    startPlaying(track);
+}
+
+
+/***
+ * (will) stop playing a track and update button on UI
+ */
+startPlaying(track){
+  Element playBtn = document.query('#${track.id}_btn');
+  if(playBtn != null){
+    playBtn
+    ..innerHtml = '&#9632;'
+    ..classes.add('stoppable')
+    ..title = 'stop';
+    track.play();
+  }
+}
+/***
+ * (will) stop playing a track and update button on UI
+ */
+stopPlaying(track){
+  Element playBtn = document.query('#${track.id}_btn');
+  if(playBtn != null){
+    playBtn
+    ..innerHtml = '&#9658;'
+    ..classes.remove('stoppable')
+    ..title = 'play';
+    track.stop();
+  }
+}
+
 /**
  * returns a (html) list-item with the artist
  */
@@ -114,7 +231,6 @@ getAlbumItem(album){
     albumListItem.append(selectable);
     albumListItem.append(albumSelector);
   }
-
   return albumListItem;
 }
 
@@ -138,7 +254,7 @@ List<Artist> fetchMusicInfo(){
         var track = new Track()
         ..title = 'title-$iA $iT'
         ..duration = 180 + 25 * iT + iA
-        ..artist = cnt == 5 ? 'John' : ''
+        ..artist = cnt == 5 ? 'John' : album.albumArtist
         ..album = album
         ..number = iT;
         album.tracks.add(track);
