@@ -1,7 +1,7 @@
 dart4andrew
 ===========
 
-variuous dart projects for/with my friend Andrew Gebbie (UK :-)
+variuous [Dart](http://www.dartlang.org/)  projects for/with my friend Andrew Gebbie (UK :-)
 
 Projects
 --------
